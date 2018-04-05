@@ -1,4 +1,5 @@
 # test
 for test git only
 
-It is Begin GIT for future CODE
+It is Begin GIT for my CODING 
+in the FUTURE
